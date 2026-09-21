@@ -4,18 +4,18 @@ A simple card game built with SwiftUI where the player competes against the CPU.
 
 ## Features
 
-- Random card dealing
-- Automatic score tracking
-- Computer opponent (CPU)
-- Built entirely with SwiftUI
+*Random card dealing
+* Automatic score tracking
+* Computer opponent (CPU)
+* Built entirely with SwiftUI
 
 ## Technologies
 
-- Swift
-- SwiftUI
-- Xcode
-- Git
-- GitHub
+* Swift
+* SwiftUI
+* Xcode
+* Git
+* GitHub
 
 ## Screenshots
 
@@ -33,11 +33,11 @@ An example of gameplay after several rounds have been played.
 
 ## Future Improvements
 
-- New Game button
-- Win/Loss screen
-- Card dealing animations
-- Sound effects
-- Game reset functionality
+* New Game button
+* Win/Loss screen
+* Card dealing animations
+* Sound effects
+*Game reset functionality
 
 ## Author
 
