@@ -7,6 +7,10 @@ A simple card game built with SwiftUI where the player competes against the CPU.
 - Random card dealing
 - Automatic score tracking
 - Computer opponent (CPU)
+- Win and loss statistics
+- Persistent win streak tracking
+- Replay after a finished game
+- Statistics reset
 - Built entirely with SwiftUI
 
 ## Technologies
@@ -19,25 +23,17 @@ A simple card game built with SwiftUI where the player competes against the CPU.
 
 ## Screenshots
 
-### Start Screen
-
-The initial game screen before any cards have been dealt.
-
-![Start Screen](Screenshots/Start%20screen.PNG)
-
-### Progress Screen
-
-An example of gameplay after several rounds have been played.
-
-![Progress Screen](Screenshots/Progress%20Screen.png)
+<p align="center">
+  <img src="Screenshots/home.png" width="220" alt="Home screen">
+  <img src="Screenshots/gameplay.png" width="220" alt="Gameplay screen">
+  <img src="Screenshots/result.png" width="220" alt="Result screen">
+  <img src="Screenshots/statistics.png" width="220" alt="Statistics screen">
+</p>
 
 ## Future Improvements
 
-- New Game button
-- Win/Loss screen
 - Card dealing animations
 - Sound effects
-- Game reset functionality
 
 ## Author
 
